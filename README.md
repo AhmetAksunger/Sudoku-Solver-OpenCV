@@ -2,7 +2,12 @@
 Sudoku Solver using OpenCV and TensorFlow.
 
 YouTube Video:
-https://www.youtube.com/watch?v=BbKPk7J8isc
+[![Youtube Video](https://img.youtube.com/vi/BbKPk7J8isc/0.jpg)](https://www.youtube.com/watch?v=BbKPk7J8isc)
+
+Video:
+
+https://user-images.githubusercontent.com/116587797/221389187-46e9eaa6-aa02-4298-b899-15e8fe6f4077.mp4
+
 
 I got the model from:
 https://github.com/murtazahassan/OpenCV-Sudoku-Solver
